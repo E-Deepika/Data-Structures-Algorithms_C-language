@@ -1,3 +1,5 @@
+//Undo operations in Text editor using Stack with Linkedlist 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
