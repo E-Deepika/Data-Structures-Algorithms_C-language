@@ -35,3 +35,7 @@ int main() {
 
     return 0;
 }
+
+//Time Complexity: O(E)
+//Space complexity: O(n*n)
+
