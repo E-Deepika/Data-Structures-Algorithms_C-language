@@ -32,7 +32,7 @@ void heapsort(int arr[],int n){
   }
 }
 int main(){
-  int arr[] = {40,20,30,10,50};
+  int arr[] = {40, 20, 30, 10, 50};
   int n = 5;
   heapsort(arr, n);
   printf("sorted array");
