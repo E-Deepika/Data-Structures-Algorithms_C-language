@@ -25,7 +25,7 @@ void sort(int a[], int n, int pos){
 }
 void radix(int a[], int n){
     int high=max(a, n);
-    for(int pos=1;(max/pos)>0;pos*=10)
+    for(int pos=1;(high/pos)>0;pos*=10)
         sort(a, n, pos);
  }
 void main(){
